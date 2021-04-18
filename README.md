@@ -34,7 +34,7 @@ For this tool to run you will need basic knowledge of command line, Python3, SQL
 
 1. Open your terminal
 2. Navigate to the location you wish to save this tool using "cd" command (e.g cd Desktop)
-3. Enter: git clone [https://github.com/abek101/Rock-Band-Generator](https://github.com/abek101/Rock-Band-Generator)
+3. Enter: git clone [https://github.com/abek101/Rock-Band-Generator.git](https://github.com/abek101/Rock-Band-Generator.git)
 
 ### Directly:
 
