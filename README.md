@@ -65,7 +65,7 @@ To run this tool first make sure that you are in Rock Band Generator location an
 python3 main.py
 ```
 
-If tool run successfully you should see a menu with options.,
+If tool run successfully you should see a menu with options:
 
 ![images/ezgif.com-gif-maker.gif](images/ezgif.com-gif-maker.gif)
 
